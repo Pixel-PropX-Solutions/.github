@@ -51,6 +51,4 @@ We focus on:
 
 ---
 
-## ⚡ Tagline
-
-**Build. Scale. Deploy.**
+## **Build. Scale. Deploy.**
